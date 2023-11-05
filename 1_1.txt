@@ -7,7 +7,7 @@ their play, though perhaps after scrambling around randomly for a while, say, se
 prove useful to evaluate the performance of these two models against known-good strategies, which we happen to have 
 on hand since tic-tac-toe is a solved game.
 
-Of course, some questions come to mind. How might this generative adversarial strategy fare in a more complex space, 
+Of course, some questions come to mind. How might this adversarial strategy fare in a more complex space, 
 especially when starting from a position of no prior knowledge? Would they scramble around in the dark endlessly, or 
 perhaps discover some obscure, unintuitive optimization route? How can we evaluate the performance of these models when 
 expertise is harder to come by? Are we doomed to reinforce our models at the speed of human interaction, or can we give 
