@@ -11,6 +11,6 @@ Of course, some questions come to mind. How might this adversarial strategy fare
 especially when starting from a position of no prior knowledge? Would they scramble around in the dark endlessly, or 
 perhaps discover some obscure, unintuitive optimization route? How can we evaluate the performance of these models when 
 expertise is harder to come by? Are we doomed to reinforce our models at the speed of human interaction, or can we give 
-it some help by modeling aspects of expertise? If we can model expertise, why bother with this reinforcement learning 
+them some help by modeling aspects of expertise? If we can model expertise, why bother with this reinforcement learning 
 stuff at all? These are very broad, low-resolution portrayals of the art that will hopefully be ameliorated 
 in this course of study.
