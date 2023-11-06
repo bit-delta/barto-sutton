@@ -12,5 +12,5 @@ especially when starting from a position of no prior knowledge? Would they scram
 perhaps discover some obscure, unintuitive optimization route? How can we evaluate the performance of these models when 
 expertise is harder to come by? Are we doomed to reinforce our models at the speed of human interaction, or can we give 
 it some help by modeling aspects of expertise? If we can model expertise, why bother with this reinforcement learning 
-stuff at all? These are, of course, very broad, low-resolution portrayals of the art that will hopefully be ameliorated 
+stuff at all? These are very broad, low-resolution portrayals of the art that will hopefully be ameliorated 
 in this course of study.
