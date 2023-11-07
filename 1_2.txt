@@ -1,0 +1,13 @@
+If we were to take advantage of symmetries in the learning process, we would reduce number of possible games, thereby
+reducing the complexity of training a policy. As a result of reduced complexity, we would require fewer resources to
+train our actor's policy, and we would probably converge upon an acceptable policy in less time than if we had considered
+all possible games.
+
+On the other hand, if the opponent were not taking advantage of symmetries, they might take actions that our model has
+not observed or entrained, having ignored their peculiarities as the symmetrical equivalent to a different game state.
+In this scenario, it would not be advantageous for us to rely on symmetries in training.
+
+Symmetrically equivalent positions might be of the same value in an unbiased, combinatorial sense, but actual games
+of tic-tac-toe involving two decision-making actors rarely play out in an unbiased fashion. A particular board state might
+be symmetrically equivalent to another, but the intermediate steps taken to arrive at such a state introduce their own
+stochastic properties by way of each player's tendencies.
