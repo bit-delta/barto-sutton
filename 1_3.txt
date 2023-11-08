@@ -1,0 +1,4 @@
+By always playing the move it rates best, the greedy algorithm might develop a tendency to choose moves from which it has
+already benefited rather than discover new, potentially better strategies. It would, in a sense, be biased toward its prior
+experiences. Greedy play might be very effective at finding local extrema, but it runs the risk of becoming stuck in a
+suboptimal pattern.
